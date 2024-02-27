@@ -951,6 +951,13 @@ section {
   .last-text p{
     width: 160%;
   }
+
+  #msg{
+  color: #61b752;
+  display: block;
+  margin-top: 12%;
+  margin-left: -335px;
+}
   
 
 }
